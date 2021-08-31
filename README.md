@@ -1,4 +1,4 @@
-# [Deprecated] See [firebase_ml_vision example app](https://github.com/flutter/plugins/tree/master/packages/firebase_ml_vision/example) for updated Live Camera Preview examples.
+# [Deprecated] See [firebase_ml_vision example app](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_ml_vision/example) for updated Live Camera Preview examples.
 
 # Flutter Live Camera with ML Kit Example Project
 
